@@ -1,4 +1,4 @@
-# Pugai-
+# Pugai-anjal
 # 📸 pugaiஅஞ்சல்
 
 **pugaiஅஞ்சல்** is a playful and interactive web-based photo booth app that allows users to snap selfies using their webcam, apply filters, pick a template, and download their final photo postcard—all right in the browser.
@@ -28,7 +28,7 @@ This project is lightweight, fast, fully client-side, and built with vanilla **H
 
 ## 📂 File Structure
 
-/photo-booth
+/pugaiஅஞ்சல்
 
 │
 
