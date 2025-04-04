@@ -1,45 +1,47 @@
-# Pugai-anjal
-# 📸 pugaiஅஞ்சல்
+# pugaiஅஞ்சல்
 
-**pugaiஅஞ்சல்** is a playful and interactive web-based photo booth app that allows users to snap selfies using their webcam, apply filters, pick a template, and download their final photo postcard—all right in the browser.
+**pugaiஅஞ்சல்** ("Smoke Post") is a browser-based digital photo booth that allows users to take photos using their webcam, apply visual filters, choose from themed templates, and download a personalized photo postcard. It is built entirely with HTML, CSS, and JavaScript, requiring no server-side components.
 
-This project is lightweight, fast, fully client-side, and built with vanilla **HTML**, **CSS**, and **JavaScript**.
-
----
-
-## 🌟 Features
-
-- 🎥 Live webcam preview using WebRTC
-- 🪞 Mirror mode toggle (flip camera like a mirror)
-- 📷 Capture photo to canvas
-- 🎨 Apply real-time filters (grayscale, sepia, blur, contrast, etc.)
-- 🖼️ Template selection (overlays or themes)
-- 💾 Download final photo as PNG
-- 🔊 Click sound effect (optional)
-- 🌈 Smooth animated transitions
+This project is designed to be lightweight, responsive, and user-friendly, offering a creative way to capture and customize moments directly in the browser.
 
 ---
 
-## ✨ Demo
+## Features
 
-🚀 Live Site: *Coming Soon*
+- Live webcam preview using WebRTC
+- Mirror mode toggle to flip the camera view
+- Real-time photo capture via canvas
+- Aesthetic filters including grayscale, sepia, contrast, blur, and more
+- Template selection for themed overlays
+- Photo download functionality (PNG format)
+- Optional camera shutter sound
+- Smooth page transitions
 
 ---
 
-## 📂 File Structure
+## Demo
 
-/pugaiஅஞ்சல்
+Live preview: _Coming Soon_
 
-│
+---
 
-├── adada.html          # Main HTML file
+## Technologies Used
 
-├── style.css           # Custom styles
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- WebRTC API
+- Canvas API
 
-├── script.js           # App functionality
+---
 
-├── click-sound.mp3     # Optional: camera click sound
-
-└── assets/             # Optional: overlays, template images, etc.
+## File Structure
 
 
+---
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/pugai-anjal.git
