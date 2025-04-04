@@ -37,7 +37,13 @@ Live preview: _Coming Soon_
 
 ## File Structure
 
-pugai-anjal/ ├── index.html # Main HTML file ├── style.css # Styling and layout ├── script.js # Application logic ├── click-sound.mp3 # Optional shutter sound effect └── assets/ # Optional template images and overlays
+pugai-anjal/
+│
+├── index.html           # Main HTML file
+├── style.css            # Stylesheet
+├── script.js            # Main JavaScript logic
+├── click-sound.mp3      # Optional sound effect
+└── assets/              # Overlay images and templates (optional)
 
 ---
 
@@ -52,5 +58,13 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
+---
 
-Let me know if you'd like this as a downloadable file or if I should include an actual license file (`LICENSE`) too.
+Let me know if you want me to:
+
+- Save this as a downloadable `README.md` file  
+- Generate a matching `LICENSE` file  
+- Help you push this to GitHub and deploy it on GitHub Pages
+
+Ready when you are!
+
