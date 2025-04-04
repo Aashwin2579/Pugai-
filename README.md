@@ -46,6 +46,7 @@ pugai-anjal/ ├── index.html # Main HTML file ├── style.css # Styling
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pugai-anjal.git
+   Open the index.html file in a web browser.
 ---
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
