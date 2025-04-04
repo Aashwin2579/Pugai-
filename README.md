@@ -21,7 +21,7 @@ This project is designed to be lightweight, responsive, and user-friendly, offer
 
 ## Demo
 
-Live preview: _Coming Soon_
+Live preview: (https://aashwin2579.github.io/Pugai-/)
 
 ---
 
