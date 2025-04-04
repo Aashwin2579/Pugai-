@@ -37,13 +37,10 @@ Live preview: _Coming Soon_
 
 ## File Structure
 
-pugai-anjal/
-│
-├── index.html           # Main HTML file
-├── style.css            # Stylesheet
-├── script.js            # Main JavaScript logic
-├── click-sound.mp3      # Optional sound effect
-└── assets/              # Overlay images and templates (optional)
+[View index.html](./index.html)
+[View style.css](./style.css)
+[View script.js](./script.js)
+
 
 ---
 
@@ -52,6 +49,7 @@ pugai-anjal/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pugai-anjal.git
+
    Open the index.html file in a web browser.
 ---
 License
