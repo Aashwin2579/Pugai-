@@ -1,0 +1,135 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fefae0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  h1, h2 {
+    color: #ff9a8b;
+    text-align: center;
+  }
+  
+  .page {
+    display: none;
+    text-align: center;
+    opacity: 0;
+    transform: scale(0.9);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .page.active {
+    display: block;
+    opacity: 1;
+    transform: scale(1);
+  }
+  
+  #startPage {
+    display: block;
+  }
+  
+  /* Buttons */
+  .btn {
+    background-color: #ff9a8b;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s;
+  }
+  
+  .btn:hover {
+    transform: scale(1.1);
+    background-color: #ff6f61;
+  }
+  
+  button:active {
+    transform: scale(0.9);
+  }
+  
+  /* Camera Section */
+  #cameraPage video {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Filter Section */
+  #filterPage img {
+    width: 80%;
+    max-width: 400px;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .filters button {
+    background-color: #ffcc5c;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .filters button:hover {
+    transform: scale(1.1);
+    background-color: #ffaa33;
+  }
+  
+  /* Template Options */
+  .template-options {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .template {
+    background-color: #ff9a8b;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .template:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Download Section */
+  #downloadPage img {
+    max-width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+  }
+  
+  /* Bounce Animation */
+  @keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+  
+  #startButton {
+    animation: bounce 1s infinite;
+  }
+  
