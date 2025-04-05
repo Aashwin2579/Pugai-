@@ -1,6 +1,6 @@
 # pugaiஅஞ்சல்
 
-**pugaiஅஞ்சல்** ("Smoke Post") is a browser-based digital photo booth that allows users to take photos using their webcam, apply visual filters, choose from themed templates, and download a personalized photo postcard. It is built entirely with HTML, CSS, and JavaScript, requiring no server-side components.
+**pugaiஅஞ்சல்** is a browser-based digital photo booth that allows users to take photos using their webcam, apply visual filters, choose from themed templates, and download a personalized photo postcard. It is built entirely with HTML, CSS, and JavaScript, requiring no server-side components.
 
 This project is designed to be lightweight, responsive, and user-friendly, offering a creative way to capture and customize moments directly in the browser.
 
